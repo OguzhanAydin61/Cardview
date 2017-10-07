@@ -22,9 +22,9 @@ Post veya Get ile oluyor.
                 
                -RecyclerView mantığını daha iyi anlamak için:   
                     
-             -    [https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html] 
+             -    https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html 
                   
-             - [https://www.youtube.com/watch?v=USbTcGx1mD0&list=PLk7v1Z2rk4hjHrGKo9GqOtLs1e2bglHHA ]   
+             - https://www.youtube.com/watch?v=USbTcGx1mD0&list=PLk7v1Z2rk4hjHrGKo9GqOtLs1e2bglHHA    
       
     + MainActivity içinde prepareAlbums() kısmında adaptere veri ekleme işini yapıyoruz.
     
